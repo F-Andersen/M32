@@ -6,6 +6,8 @@
 **SQLite** як вбудованої реляційної бази даних.
 
 ---
+<img width="1033" height="583" alt="image" src="https://github.com/user-attachments/assets/87289b11-7614-4b00-8f0e-f49931fa3fbc" />
+
 
 ## Основні можливості
 
